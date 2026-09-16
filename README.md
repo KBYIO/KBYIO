@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi 👋 I'm J
+# Hi 👋 I'm Joe Lauren
 
-**Builder • AI • Backend • Cloud • Product**
+**Builder • AI • Backend • Cloud • Product • Inventor**
 
 **E-Commerce • Health • Real Estate • Fintech**
 
