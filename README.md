@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi 👋 I'm Joe Lauren
+# Hi 👋 I'm J
 
-**Builder • AI • Backend • Cloud • Product • Inventor**
+**Builder • AI • Backend • Cloud • Product**
 
 **E-Commerce • Health • Real Estate • Fintech**
 
@@ -12,15 +12,19 @@
 
 ## 🧠 About Me
 
-I build software across **e-commerce, health, real estate, and fintech**, working at the intersection of **AI, backend systems, automation, search, APIs, data, and cloud infrastructure**.
+I build software across **e-commerce, health, real estate, and fintech**, working at the intersection of **AI, backend systems, automation, search, APIs, structured data, and cloud infrastructure**.
 
-Focused on turning complex systems into products that are **fast, scalable, reliable, and simple to use**.
+Focused on turning complex systems into products that are **fast, scalable, reliable, discoverable, and simple to use**.
 
 ## 🚀 What I'm Up To
 
 - Building AI agents & intelligent applications
 - Developing backend APIs & distributed services
 - Working with search, recommendations & personalization
+- Building **MCP & agent-connected systems**
+- Working with **UCPs & modern commerce protocols**
+- Improving **AEO & LLM discoverability**
+- Structuring machine-readable data with **Schema.org**
 - Designing automation & real-time data pipelines
 - Building scalable cloud infrastructure
 - Developing technology across **commerce, health, real estate & financial software**
@@ -51,6 +55,8 @@ Focused on turning complex systems into products that are **fast, scalable, reli
 ![Node.js](https://img.shields.io/badge/NODE.JS-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
 ![Webhooks](https://img.shields.io/badge/WEBHOOKS-111827?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-111827?style=for-the-badge)
+![UCPs](https://img.shields.io/badge/UCPs-2563EB?style=for-the-badge)
 
 ### 🗄️ Databases & Data
 
@@ -58,6 +64,8 @@ Focused on turning complex systems into products that are **fast, scalable, reli
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Vector Search](https://img.shields.io/badge/VECTOR_SEARCH-7C3AED?style=for-the-badge)
+![Schema.org](https://img.shields.io/badge/SCHEMA.ORG-990000?style=for-the-badge&logo=schema.org&logoColor=white)
+![Structured Data](https://img.shields.io/badge/STRUCTURED_DATA-374151?style=for-the-badge)
 
 ### 🤖 AI & Intelligent Systems
 
@@ -67,8 +75,28 @@ Focused on turning complex systems into products that are **fast, scalable, reli
 ![LLMs](https://img.shields.io/badge/LLMs-6C63FF?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI_AGENTS-16A34A?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MODEL_CONTEXT_PROTOCOL-111827?style=for-the-badge)
 ![Search](https://img.shields.io/badge/SEARCH-2563EB?style=for-the-badge)
 ![Recommendations](https://img.shields.io/badge/RECOMMENDATIONS-9333EA?style=for-the-badge)
+
+### 🔎 Search, Discovery & Machine Readability
+
+![AEO](https://img.shields.io/badge/AEO-0F766E?style=for-the-badge)
+![Schema.org](https://img.shields.io/badge/SCHEMA.ORG-990000?style=for-the-badge&logo=schema.org&logoColor=white)
+![Structured Data](https://img.shields.io/badge/STRUCTURED_DATA-334155?style=for-the-badge)
+![Semantic Search](https://img.shields.io/badge/SEMANTIC_SEARCH-7C3AED?style=for-the-badge)
+![Vector Search](https://img.shields.io/badge/VECTOR_SEARCH-6D28D9?style=for-the-badge)
+![LLM Discovery](https://img.shields.io/badge/LLM_DISCOVERY-111827?style=for-the-badge)
+![Product Discovery](https://img.shields.io/badge/PRODUCT_DISCOVERY-2563EB?style=for-the-badge)
+
+### 🔗 Protocols & Agent Infrastructure
+
+![MCP](https://img.shields.io/badge/MCP-111827?style=for-the-badge)
+![UCPs](https://img.shields.io/badge/UCPs-2563EB?style=for-the-badge)
+![APIs](https://img.shields.io/badge/APIs-005571?style=for-the-badge)
+![Webhooks](https://img.shields.io/badge/WEBHOOKS-374151?style=for-the-badge)
+![Agent Orchestration](https://img.shields.io/badge/AGENT_ORCHESTRATION-16A34A?style=for-the-badge)
+![Tool Calling](https://img.shields.io/badge/TOOL_CALLING-7C3AED?style=for-the-badge)
 
 ### ☁️ Cloud & Infrastructure
 
@@ -100,7 +128,9 @@ Focused on turning complex systems into products that are **fast, scalable, reli
 
 <div align="center">
 
-### AI × Backend × Cloud × Automation × Product
+### AI × Backend × Cloud × Automation × Discovery × Product
+
+**MCP • UCPs • AEO • Schema.org**
 
 **E-Commerce • Health • Real Estate • Fintech**
 
