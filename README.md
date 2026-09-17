@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 I'm J
+# Hi 👋 I'm Joe Laurent, some call me JL (Jill)
 
 **Builder • AI • Backend • Cloud • Product**
 
