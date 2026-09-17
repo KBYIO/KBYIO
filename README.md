@@ -129,8 +129,6 @@ Focused on turning complex systems into products that are **fast, scalable, reli
 
 ### AI × Backend × Cloud × Automation × Discovery × Product
 
-**MCP • UCPs • AEO • Schema.org**
-
 **E-Commerce • Health • Real Estate • Fintech**
 
 **Build complex systems. Make them feel simple.**
